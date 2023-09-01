@@ -1,4 +1,4 @@
-# NiphadeSnehal
+
 # Snehal_Niphade
 <h1 align="center">Hi 👋, I'm Snehal Niphade</h1>
 <h3 align="center">A Full Stack Web Developer from India</h3>
